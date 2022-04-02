@@ -1,16 +1,14 @@
 # bikes_prediction (Supervised Learning)
-prediction of bikes demand in Washington State
-We had data from the 1/01/2011 until the 31/12/2012 indicating what was the count of bikes used in Washington DC.
-Exploration was performed on all the data.
-dataset had to be split into train and test, test being the last 3 months of the dataset.
+This project is about making predictions concerning the amount of bike users in Washington D.C !
 
-Discovering the easter egg and designing cool features was my favourite part of the project (of course finding how to slighlty increase the accuracy of the algorithm with the right parameters was also very satisfying)!
+We had data from the 1/01/2011 until the 31/12/2012 indicating what was the count of bikes per hour used in Washington DC.
+
 
 Here is a quick explanation of how this project is structured:
 1) Exploratory data analysis which led to the discovery of a cool easter egg!
 2) Feature engineering 
-3) Model training 
+3) Model training with multiple algorithms
 4) Model selection and hyperparameter tuning
-5) Validation
+5) Validation to see how accurate the model is!
 
 Any constructive feedback is always welcome and would be greatly appreciated!
